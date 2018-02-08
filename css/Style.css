@@ -1,0 +1,13 @@
+.page-header li a {
+	font-size: 150%;
+	color: red;
+	padding-left: 50px;
+	padding-top: 100px;
+}
+.page-header img {
+	height: 100px;
+	width: 150px;
+}
+footer {
+	padding-bottom: 2cm;
+}
